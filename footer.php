@@ -17,6 +17,8 @@
     </select>
 
     <p>Netflix Brazil</p>
+
+    <?php wp_footer(); ?>
 </footer>
 </body>
 </html>
